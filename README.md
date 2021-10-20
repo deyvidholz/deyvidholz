@@ -3,8 +3,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deyvid-holz-trames-811472198/)](https://www.linkedin.com/in/deyvid-holz-trames-811472198/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5519984450592&text=Hello!)](https://api.whatsapp.com/send?phone=5519984450592&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Email-0078D4?style=flat-square&logo=gmail&logoColor=white&link=mailto:deyvidholzt@gmail.com)](mailto:deyvidholzt@gmail.com)
-    
+
 ## 📚 Knowledges
+
 <p>
 Welcome to my Github Profile 😉
 <br>
@@ -54,6 +55,7 @@ I am a Backend Developer within 3+ years of experience. I've been interested and
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-000?style=flat-square&logo=amazon-aws&logoColor=FF9900)
 
 ## 📖 Currently learning
+
 ![React](https://img.shields.io/badge/React-000?style=flat-square&logo=React&logoColor=61DAFB)
 ![Circle](https://img.shields.io/badge/CI%20CD-000?style=flat-square&logo=Circle&logoColor=02569B)
 ![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=Python&logoColor=3776AB)

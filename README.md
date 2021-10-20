@@ -58,3 +58,4 @@ I am a Backend Developer within 3+ years of experience. I've been interested and
 ![Circle](https://img.shields.io/badge/CI%20CD-000?style=flat-square&logo=Circle&logoColor=02569B)
 ![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=Python&logoColor=3776AB)
 ![Django](https://img.shields.io/badge/Django-000?style=flat-square&logo=Django&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-000?style=flat-square&logo=Firebase&logoColor=FFCA28)

@@ -5,6 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Email-0078D4?style=flat-square&logo=gmail&logoColor=white&link=mailto:deyvidholzt@gmail.com)](mailto:deyvidholzt@gmail.com)
     
 Welcome to my Github Profile 😉
+<br>
 I am a Backend Developer within 3+ years of experience. I've been interested and learning about programming since I was 13 years old.
 
 ## 📚 Knowledges
@@ -23,7 +24,7 @@ I am a Backend Developer within 3+ years of experience. I've been interested and
 ![jQuery](https://img.shields.io/badge/-jQuery-000?style=flat-square&logo=jquery&logoColor=0769AD)
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-000?style=flat-square&logo=Node.js&logoColor=339933)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=typescriptlogoColor=3178C6)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=typescript&logoColor=3178C6)
 ![Dart](https://img.shields.io/badge/-Dart-000?style=flat-square&logo=Dart&logoColor=0175C2)
 ![PHP](https://img.shields.io/badge/-PHP-000?style=flat-square&logo=php&logoColor=777BB4)
 

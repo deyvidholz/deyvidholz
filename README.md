@@ -15,15 +15,16 @@ I am a Backend Developer within 3+ years of experience. I've been interested and
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
-![Vuetify](https://img.shields.io/badge/-Vuetify-000?style=for-the-badge&logo=vuetify&logoColor=1867C0)
-![Font Awesome](https://img.shields.io/badge/-Font%20Awesome-000?style=for-the-badge&logo=font-awesome&logoColor=339AF0)
-![MaterialDesignIcons](https://img.shields.io/badge/-Material%20Design%20Icons-000?style=for-the-badge&logo=material-design-icons&logoColor=2196F3)
-![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![jQuery](https://img.shields.io/badge/-jQuery-000?style=for-the-badge&logo=jquery&logoColor=0769AD)
 
 ![Vue.js](https://img.shields.io/badge/-Vuejs-000?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![jQuery](https://img.shields.io/badge/-jQuery-000?style=for-the-badge&logo=jquery&logoColor=0769AD)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+![Vuetify](https://img.shields.io/badge/-Vuetify-000?style=for-the-badge&logo=vuetify&logoColor=1867C0)
+
+![Font Awesome](https://img.shields.io/badge/-Font%20Awesome-000?style=for-the-badge&logo=font-awesome&logoColor=339AF0)
+![MaterialDesignIcons](https://img.shields.io/badge/-Material%20Design%20Icons-000?style=for-the-badge&logo=material-design-icons&logoColor=2196F3)
+
+![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma&logoColor=F24E1E)
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-000?style=for-the-badge&logo=Node.js&logoColor=339933)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6)

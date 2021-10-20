@@ -18,13 +18,12 @@ I am a Backend Developer within 3+ years of experience. I've been interested and
 ![jQuery](https://img.shields.io/badge/-jQuery-000?style=for-the-badge&logo=jquery&logoColor=0769AD)
 
 ![Vue.js](https://img.shields.io/badge/-Vuejs-000?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
 ![Vuetify](https://img.shields.io/badge/-Vuetify-000?style=for-the-badge&logo=vuetify&logoColor=1867C0)
-
-![Font Awesome](https://img.shields.io/badge/-Font%20Awesome-000?style=for-the-badge&logo=font-awesome&logoColor=339AF0)
-![MaterialDesignIcons](https://img.shields.io/badge/-Material%20Design%20Icons-000?style=for-the-badge&logo=material-design-icons&logoColor=2196F3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
 
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![MaterialDesignIcons](https://img.shields.io/badge/-Material%20Design%20Icons-000?style=for-the-badge&logo=material-design-icons&logoColor=2196F3)
+![Font Awesome](https://img.shields.io/badge/-Font%20Awesome-000?style=for-the-badge&logo=font-awesome&logoColor=339AF0)
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-000?style=for-the-badge&logo=Node.js&logoColor=339933)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6)
@@ -43,8 +42,8 @@ I am a Backend Developer within 3+ years of experience. I've been interested and
 ![Swagger](https://img.shields.io/badge/Swagger-000?style=for-the-badge&logo=Swagger&logoColor=85EA2D)
 ![Packagist](https://img.shields.io/badge/Packagist-000?style=for-the-badge&logo=Packagist&logoColor=F28D1A)
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![MariaDB](https://img.shields.io/badge/MariaDB-000?style=for-the-badge&logo=MariaDB&logoColor=FCC624)
 

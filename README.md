@@ -1,14 +1,16 @@
 ### 👨🏻‍💻 About me
 
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deyvid-holz-trames-811472198/)](https://www.linkedin.com/in/deyvid-holz-trames-811472198/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5519984450592&text=Hello!)](https://api.whatsapp.com/send?phone=5519984450592&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Email-0078D4?style=flat-square&logo=gmail&logoColor=white&link=mailto:deyvidholzt@gmail.com)](mailto:deyvidholzt@gmail.com)
     
+## 📚 Knowledges
+<p>
 Welcome to my Github Profile 😉
 <br>
 I am a Backend Developer within 3+ years of experience. I've been interested and learning about programming since I was 13 years old.
-
-## 📚 Knowledges
+</p>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat-square&logo=css3&logoColor=1572B6)
@@ -24,7 +26,7 @@ I am a Backend Developer within 3+ years of experience. I've been interested and
 ![jQuery](https://img.shields.io/badge/-jQuery-000?style=flat-square&logo=jquery&logoColor=0769AD)
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-000?style=flat-square&logo=Node.js&logoColor=339933)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=typescript&logoColor=3178C6)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=typescriptlogoColor=3178C6)
 ![Dart](https://img.shields.io/badge/-Dart-000?style=flat-square&logo=Dart&logoColor=0175C2)
 ![PHP](https://img.shields.io/badge/-PHP-000?style=flat-square&logo=php&logoColor=777BB4)
 
@@ -49,5 +51,11 @@ I am a Backend Developer within 3+ years of experience. I've been interested and
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-000?style=flat-square&logo=bitbucket&logoColor=0052CC)
 
-![Linux](https://img.shields.io/badge/Linux-000?style=flat-square&logo=Linux&logoColor=FCC624)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-000?style=flat-square&logo=Ubuntu&logoColor=E95420)
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-000?style=flat-square&logo=amazon-aws&logoColor=FF9900)
+
+
+## 📖 Currently learning
+![React](https://img.shields.io/badge/React-000?style=flat-square&logo=React&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=Python&logoColor=3776AB)
+![Circle](https://img.shields.io/badge/CI%2CD-000?style=flat-square&logo=Circle&logoColor=02569B)

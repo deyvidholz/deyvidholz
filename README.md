@@ -50,6 +50,7 @@ I am a Backend Developer within 3+ years of experience. I've been interested and
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-000?style=for-the-badge&logo=bitbucket&logoColor=0052CC)
+![GitLab](https://img.shields.io/badge/-GitLab-000?style=for-the-badge&logo=gitlab)
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-000?style=for-the-badge&logo=Ubuntu&logoColor=E95420)
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-000?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)

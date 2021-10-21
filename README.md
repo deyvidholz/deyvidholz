@@ -9,7 +9,7 @@
 <p>
 Welcome to my Github Profile 😉
 <br>
-I am a Backend Developer within 3+ years of experience. I've been interested and learning about programming since I was 13 years old.
+I'm a Backend Developer within 3+ years of experience. I've been interested and learning about programming since I was 13 years old.
 </p>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26)

@@ -36,6 +36,7 @@ I'm a Backend Developer within 3+ years of experience. I've been interested and 
 
 ![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?style=for-the-badge&logo=graphql&logoColor=E10098)
+![TypeORM](https://img.shields.io/badge/TypeORM-000?style=for-the-badge&logo=&logoColor=52B0E7)
 ![Sequelize](https://img.shields.io/badge/Sequelize-000?style=for-the-badge&logo=Sequelize&logoColor=52B0E7)
 ![ESlint](https://img.shields.io/badge/ESlint-000?style=for-the-badge&logo=ESlint&logoColor=4B32C3)
 ![Jest](https://img.shields.io/badge/Jest-000?style=for-the-badge&logo=Jest&logoColor=C21325)

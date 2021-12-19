@@ -1,16 +1,17 @@
 ### 👨🏻‍💻 About me
 
+<p>
+Welcome to my Github Profile!
+<br>
+I'm a Backend Developer within 3+ years of experience. I've been interested and learning about programming since I was 13 years old.
+</p>
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deyvidholz)](https://www.linkedin.com/in/deyvidholz)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5519984450592&text=Hello!)](https://api.whatsapp.com/send?phone=5519984450592&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:deyvidholzt@gmail.com)](mailto:deyvidholzt@gmail.com)
 
 ## 📚 Knowledges
 
-<p>
-Welcome to my Github Profile 😉
-<br>
-I'm a Backend Developer within 3+ years of experience. I've been interested and learning about programming since I was 13 years old.
-</p>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6)

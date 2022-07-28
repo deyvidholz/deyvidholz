@@ -3,7 +3,7 @@
 <p>
 Welcome to my Github Profile!
 <br>
-I'm a Backend Developer within 3+ years of experience. I've been interested and learning about programming since I was 13 years old.
+I'm a Backend Developer within 4+ years of experience. I've been interested and learning about programming since I was 13 years old.
 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deyvidholz)](https://www.linkedin.com/in/deyvidholz)

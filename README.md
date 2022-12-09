@@ -60,6 +60,6 @@ I'm a Backend Developer within 4+ years of experience. I've been interested and 
 ## 📖 Currently learning
 
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=React&logoColor=61DAFB)
-<!-- ![Circle](https://img.shields.io/badge/CI%20CD-000?style=for-the-badge&logo=Circle&logoColor=02569B) -->
 ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=CSharp&logoColor=3776AB)
+<!-- ![Circle](https://img.shields.io/badge/CI%20CD-000?style=for-the-badge&logo=Circle&logoColor=02569B) -->
 <!-- ![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=Firebase&logoColor=FFCA28) -->

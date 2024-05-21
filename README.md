@@ -7,7 +7,6 @@ I'm a Backend Developer within 6+ years of experience. I've been interested and 
 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deyvidholz)](https://www.linkedin.com/in/deyvidholz)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5519984450592&text=Hello!)](https://api.whatsapp.com/send?phone=5519984450592&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:deyvidholzt@gmail.com)](mailto:deyvidholzt@gmail.com)
 
 ## 📚 Knowledge

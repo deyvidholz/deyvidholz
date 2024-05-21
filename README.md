@@ -21,6 +21,7 @@ I'm a Backend Developer within 6+ years of experience. I've been interested and 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![jQuery](https://img.shields.io/badge/-jQuery-000?style=for-the-badge&logo=jquery&logoColor=0769AD)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=React&logoColor=61DAFB)
 
 <hr>
 
@@ -91,9 +92,8 @@ I'm a Backend Developer within 6+ years of experience. I've been interested and 
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=Windows&logoColor=00a1f1)
 
 
-## 📖 Currently learning
+## 📖 Others
 
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=React&logoColor=61DAFB)
 ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=CSharp&logoColor=3776AB)
 
 

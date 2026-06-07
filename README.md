@@ -6,7 +6,7 @@ Welcome to my Github Profile!
 I'm a Backend Developer within 6+ years of experience. I've been interested and learning about programming since I was 13 years old.
 <br>
 <br>
-[Check my portfolio :)](https://deyvidholz.dev/)
+[Check my portfolio](https://deyvidholz.dev/)
 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deyvidholz)](https://www.linkedin.com/in/deyvidholz)
